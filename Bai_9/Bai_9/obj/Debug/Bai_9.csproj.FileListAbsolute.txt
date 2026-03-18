@@ -1,0 +1,6 @@
+C:\Users\hungp\baitap\Bai_9\Bai_9\bin\Debug\Bai_9.exe.config
+C:\Users\hungp\baitap\Bai_9\Bai_9\bin\Debug\Bai_9.exe
+C:\Users\hungp\baitap\Bai_9\Bai_9\bin\Debug\Bai_9.pdb
+C:\Users\hungp\baitap\Bai_9\Bai_9\obj\Debug\Bai_9.csproj.CoreCompileInputs.cache
+C:\Users\hungp\baitap\Bai_9\Bai_9\obj\Debug\Bai_9.exe
+C:\Users\hungp\baitap\Bai_9\Bai_9\obj\Debug\Bai_9.pdb
